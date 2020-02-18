@@ -1,0 +1,4 @@
+/.idea/
+rabbitmq-study.iml
+**/target
+/provider/provider.iml

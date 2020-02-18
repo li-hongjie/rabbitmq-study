@@ -1,0 +1,12 @@
+server:
+  port: 8721
+
+spring:
+  application:
+    name: rabbitmq-producer
+  rabbitmq:
+    host: 172.25.219.189
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: my_vhost
